@@ -6,7 +6,7 @@ This Python script generates strong, secure passwords that meet modern security 
 Usage
 -----
 
-1. Run the script: `python password_generator.py`
+1. Run the script: `python passwordgenerator.py`
 2. Enter the length of the password (min 12, recommended 16+)
 3. Enter the number of passwords to generate
 4. The script will generate and print the specified number of passwords, each of the specified length.
